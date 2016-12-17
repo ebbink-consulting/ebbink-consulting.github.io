@@ -61,7 +61,7 @@
             "showButtons": false
           },
           "title": "Ebbink Consulting",
-          "text": "Some text.",
+          "text": "Empowering strategic torque with advisory Enterprise Architecture &amp; Portfolio Management&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> "
         },
         {
@@ -109,7 +109,7 @@
               "size": 0
             }
           },
-          "title": "SERVICE &nbsp;OFFERINGS",
+          "title": "Service &nbsp;Offerings",
           "text": "High Level Statements.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -252,7 +252,7 @@
             "showTitle": true,
             "showSubTitle": false
           },
-          "title": "CONTACT FORM",
+          "title": "Contact Us",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "form": {
             "action": "hakanibis@hotmail.com",
