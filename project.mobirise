@@ -90,7 +90,8 @@
           "_name": "msg-box5",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "20px"
             },
             "H3": {
               "text-align": "left"
@@ -316,7 +317,7 @@
           },
           "title1": "Architecture Capability Portfolio Management",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<br>Our methodolgy and toolset maximises alignment to business capabilities.<br><br>Can your organisation answer:<br>* How many solutions do you have?<br>* Can you describe each solution in an one-pager?<br>* How much does each solution cost in terms of money and maintenance?<br>* Do you have mapping between business capability and solutions?<br>* What future solutions you may need to come up with?<br><br>Organisations will benefit from our unique approach with:<br>* Instant discovery of duplicate systems.<br>* Reduction in technology footprint.<br>* Fast-track project success with re-usable solutions via capability-based lookup.<br><br><br><br><br><br>",
+          "caption1": "<br>Our methodolgy and toolset maximises alignment to business capabilities.<br><br>Can your organisation answer:<br>* How many solutions do you have?<br>* Can you describe each solution in an one-pager?<br>* How much does each solution cost in terms of money and maintenance?<br>* Do you have mapping between business capability and solutions?<br>* What future solutions you may need to come up with?<br><br>Benefits:<br>&nbsp; &nbsp;* Reduce technology footprint.<br>&nbsp; &nbsp;* Reduce Cost Income Ratio.<br>&nbsp; &nbsp;*&nbsp;Instant discovery of duplicate systems.<br>&nbsp; &nbsp;*&nbsp;Fast-track projects with existing solutions via&nbsp;capability-based lookup.<br><br><br><br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
