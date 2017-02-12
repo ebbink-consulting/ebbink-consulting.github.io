@@ -24,7 +24,10 @@
     "uniqCompNum": 29,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
@@ -333,7 +336,7 @@
           },
           "title2": "Architecture Audit",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<br><span style=\"font-size: 1rem; line-height: 1.5;\">Project success relies on the architecture being proposed, it is&nbsp;</span>fundamental<span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp;to conduct an objective architectural verification process.</span><br><br>With our minimalistic principle, our approach is to audit, verify and validate architectural approach, style, technology selection and reasoning.&nbsp;<br><br>We can assist;<br>&nbsp; &nbsp;* PMO and project managers for maximised success,<br>&nbsp; &nbsp;* Architects with re-assurance,<br>&nbsp; &nbsp;* CFO with preventing financial losses due to wrong architectural decisions,<br>&nbsp; &nbsp;* CIO for a peace of mind,<br>whilst maintaining high degree of;<br>&nbsp; &nbsp;* Integrity,<br>&nbsp; &nbsp;* Positivity,<br>&nbsp; &nbsp;*&nbsp;Confidentiality.<br><br><br><br><br><br><br>",
+          "caption2": "<br><span style=\"font-size: 1rem; line-height: 1.5;\">Project success relies on the architecture being proposed, it is&nbsp;</span>fundamental<span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp;to conduct an objective architectural verification process.</span><br><br>With our minimalistic principle, our approach is to audit, verify and validate architectural approach, style, technology selection and reasoning.&nbsp;<br><br>We can assist;<br>&nbsp; &nbsp;* PMO and project managers for early success,<br>&nbsp; &nbsp;* Architects with re-assurance,<br>&nbsp; &nbsp;* CFO with preventing financial losses due to wrong architectural decisions,<br>&nbsp; &nbsp;* CIO for a peace of mind,<br>whilst maintaining high degree of;<br>&nbsp; &nbsp;* Integrity,<br>&nbsp; &nbsp;* Positivity,<br>&nbsp; &nbsp;*&nbsp;Confidentiality.<br><br><br><br><br><br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
