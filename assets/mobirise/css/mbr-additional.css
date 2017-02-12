@@ -420,6 +420,18 @@ h6,
   color: #ffffff;
   text-align: center;
 }
+#msg-box5-3 P {
+  text-align: left;
+}
+#msg-box5-3 H3 {
+  text-align: left;
+}
+#features6-1 P {
+  text-align: left;
+}
+#features6-s P {
+  text-align: left;
+}
 #form1-4 .form-control-label {
   color: #232323;
 }
