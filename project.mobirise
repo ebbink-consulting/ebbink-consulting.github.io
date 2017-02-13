@@ -27,7 +27,7 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": ""
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-91832751-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
   },
   "pages": {
     "index.html": {
@@ -223,7 +223,7 @@
           },
           "title3": "Technology",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<br>Our expertise in this capability spans across strategising, architecting and implementing with the following in focus.&nbsp;<br><br>* SOA, BPM &amp; ESB ecosystems.<br>* Cloud computing.<br>* Business Rules Management Systems.<br>* Big Data &amp; Semantic Web<br>* Process and Data Integration.<br>* Middleware<br><br><br><br>",
+          "caption3": "<br>We thrive on innovative technology.<br><br>Our expertise in this capability spans across strategising, architecting and implementing with the following in focus.&nbsp;<br><br>* SOA, BPM &amp; ESB ecosystems.<br>* Cloud computing.<br>* Business Rules Management Systems.<br>* Big Data &amp; Semantic Web<br>* Data Integration.<br>* Middleware<br><br><br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -336,7 +336,7 @@
           },
           "title2": "Architecture Audit",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<br><span style=\"font-size: 1rem; line-height: 1.5;\">Project success relies on the architecture being proposed, it is&nbsp;</span>fundamental<span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp;to conduct an objective architectural verification process.</span><br><br>With our minimalistic principle, our approach is to audit, verify and validate architectural approach, style, technology selection and reasoning.&nbsp;<br><br>We can assist;<br>&nbsp; &nbsp;* PMO and project managers for early success,<br>&nbsp; &nbsp;* Architects with re-assurance,<br>&nbsp; &nbsp;* CFO with preventing financial losses due to wrong architectural decisions,<br>&nbsp; &nbsp;* CIO for a peace of mind,<br>whilst maintaining high degree of;<br>&nbsp; &nbsp;* Integrity,<br>&nbsp; &nbsp;* Positivity,<br>&nbsp; &nbsp;*&nbsp;Confidentiality.<br><br><br><br><br><br><br>",
+          "caption2": "<br><span style=\"font-size: 1rem; line-height: 1.5;\">All expensive mistakes are done on day one, which is&nbsp;</span>architecture<span style=\"font-size: 1rem; line-height: 1.5;\">.</span><br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1rem; line-height: 1.5;\">Project success relies on the architecture being proposed, it is&nbsp;</span>fundamental<span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp;to conduct an objective architectural verification process.</span><br><br>With our minimalistic principle, our approach is to audit, verify and validate architectural approach, style, technology selection and reasoning without reading every artefact being produced.<br><br>We can assist;<br>&nbsp; &nbsp;* PMO and project managers for early success,<br>&nbsp; &nbsp;* Architects with re-assurance,<br>&nbsp; &nbsp;* CFO with preventing financial losses due to wrong architectural decisions,<br>&nbsp; &nbsp;* CIO for a peace of mind,<br>whilst maintaining high degree of;<br>&nbsp; &nbsp;* Integrity,<br>&nbsp; &nbsp;* Positivity,<br>&nbsp; &nbsp;*&nbsp;Confidentiality.<br><br><br><br><br><br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
