@@ -480,7 +480,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Powered by:<br>mobirise.com<br><br><br><br>"
+          "text": "special thanks to:<br>mobirise.com<br><br><br><br>"
         },
         {
           "_inherit": "menu",
