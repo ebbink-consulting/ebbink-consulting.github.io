@@ -131,7 +131,7 @@
             "showCaption": true
           },
           "title": "<span style=\"font-weight: normal;\">Our Motto</span>",
-          "caption": "<p><span style=\"line-height: 1.5;\">MINIMALISTIC ARCHITECTURE</span></p><p><b style=\"line-height: 1.5;\">MAKE ARCHITECTURE FUN AGAIN</b><br></p><p>MAKE PEOPLE BELIEVE IN ARCHITECTURE</p>"
+          "caption": "<p><span style=\"line-height: 1.5;\">MAKE ARCHITECTURE FUN AGAIN</span><br></p><p><b>MAKE ARCHITECTURE MINIMAL &amp; CONNECTED</b></p><p>MAKE PEOPLE BELIEVE IN ARCHITECTURE</p>"
         },
         {
           "_inherit": "features1",
