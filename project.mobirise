@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.3",
-    "uniqCompNum": 29,
+    "uniqCompNum": 56,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -83,32 +83,341 @@
             "showButtons": false
           },
           "title": "<span style=\"font-weight: normal;\">Ebbink Consulting</span>",
-          "text": "<span style=\"font-style: normal;\">Empowering strategic torque through advisory Enterprise Architecture &amp; Portfolio Management.</span>",
+          "text": "<span style=\"font-style: normal;\">Empowering strategic torque through advisory Enterprise Architecture &amp; Portfolio Management.</span><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#5b5b5b",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "17px"
+            },
+            "P": {
+              "color": "#5b5b5b",
+              "font-size": "48px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#8c8c8c"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1c",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "<span style=\"font-weight: normal;\">Our Motto</span>",
+          "caption": "<p><span style=\"line-height: 1.5;\">MINIMALISTIC ARCHITECTURE</span></p><p><b style=\"line-height: 1.5;\">MAKE ARCHITECTURE FUN AGAIN</b><br></p><p>MAKE PEOPLE BELIEVE IN ARCHITECTURE</p>"
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_anchor": "features2-1h",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "telescope",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "Strategy",
+          "subtitle1": "",
+          "caption1": "Embedding strategic thinking throughtout every phase of business operations.",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#msg-box5-12\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "strategy",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title2": "Enterprise Architecture",
+          "subtitle2": "",
+          "caption2": "Enterprise-wide understanding of business operations orchestrated with systems thinking.",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#msg-box5-13\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "tools-2",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title3": "Solution Architecture",
+          "subtitle3": "",
+          "caption3": "Fast-track projects with our component-based solution architecture method.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "gears",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title4": "Technology",
+          "subtitle4": "",
+          "caption4": "Gaining competitive advantage with innovative business powered by automation and cognitive technology.",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#msg-box5-14\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          }
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_anchor": "features2-1g",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "briefcase",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "Architecture Capability Portfolio",
+          "subtitle1": "",
+          "caption1": "Keeping track of current capabilities, responsive solution architecture &amp; predict future solutions.",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#msg-box5-15\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "magnifying-glass",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title2": "Architecture Assurance",
+          "subtitle2": "",
+          "caption2": "With all the changes in legal aspects, companies no longer can afford failure due to short-coming architectures.<br>As any concept, we can verify your architecure in a short time frame prior project commencement.",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#msg-box5-16\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "pencil",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "footer1-d",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "special thanks to:<br>mobirise.com<br><br><br><br>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "font-size": "20px"
-            },
-            "H3": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "msg-box5-3",
+          "_anchor": "msg-box5-12",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
+            "paddingTop": "2",
             "paddingBottom": 0,
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#f3c649",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -117,7 +426,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
+            "inverse": true,
             "showTitle": true,
             "showText": true,
             "showButtons": false
@@ -126,7 +435,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -140,29 +453,77 @@
               "size": 0
             }
           },
-          "title": "Approach",
-          "text": "<p>We are good listeners!<br>We will observe your organisation!<br>We will then determine what architectural aspects will serve your business direction!</p>",
+          "title": "Strategy",
+          "text": "Organisations are constantly influenced by the environment they operate in.<br><br>It is vital to be aware what is happening and what is coming. We scan and interpret news and developments in your market into actionable tactical initiatives.<br><br>Our approach is to assist identifying core strategic goals based on Scenario-based Strategic Planning and Business Motivation. <br><br>Our proven methodology will provide organisations an instant insight into strategic realisation and gaps across the entire enterprise with our innovative visual technique.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-13",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f3c649",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Enterprise Architecture",
+          "text": "Enterprise Architecture is a compass, only useful if well understood.<br><br>Our approach is to deliver a minimalistic Just Enough Architecture with respect to organisational culture, structure and business intent.<br><br>Our experience spans across:<br>&nbsp; &nbsp;* Business Architecture<br>&nbsp; &nbsp;* Information Architecure<br>&nbsp; &nbsp;* Technology Architecture<br>&nbsp; &nbsp;* Integration Architecture<br>&nbsp; &nbsp;* Enterprise Security Architecture<br><br>Our proven methodology will bring Enterprise and Solution Architects to the same page whilst maintaining strong focus on business strategy and direction.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
-          "_inherit": "features3",
           "_tags": [
             "Theme"
           ],
-          "_name": "features6",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "features6-1",
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1i",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": 0,
             "parallax": true,
+            "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -170,125 +531,103 @@
             "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "3",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
             "showButtons": false
           },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "telescope",
-              "family": "et-line",
+          "media": {
+            "image": {
               "active": true,
-              "link": "index.html#features6-1",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "title1": "Strategy",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">\u001b</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">Organisations are constantly influenced by the environment they operate in.</span><br><br><span style=\"font-size: 1rem; line-height: 1.5;\">It is vital to be aware what is happening and what is coming.</span><br><br><span style=\"font-size: 1rem; line-height: 1.5;\">Our approach is to&nbsp;</span>assist<span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp;identifying core strategic goals based on Scenario-based Strategic Planning and Business Motivation.&nbsp;</span><br><br><span style=\"font-size: 1rem; line-height: 1.5;\">Our proven methodology will provide organisations an instant insight into&nbsp;</span>strategic realisation and gaps across the entire enterprise with our innovative visual technique.<br><br><br><br><br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media2": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-3-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "strategy",
-              "family": "et-line",
-              "active": true,
-              "link": "index.html#features6-1",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "title2": "Enterprise Architecture",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<br>Enterprise Architecture is a compass, only useful if well understood.<br><br>Our approach is to deliver a minimalistic Just Enough Architecture with respect to organisational culture, structure and business intent.<br><br>Our proven methodology will bring Enterprise and Solution Architects to the same page whilst maintaining strong focus on business strategy and direction.<br><br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "gears",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
               "size": 0
             }
           },
-          "title3": "Technology",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<br>We thrive on innovative technology.<br><br>Our expertise in this capability spans across strategising, architecting and implementing with the following in focus.&nbsp;<br><br>* SOA, BPM &amp; ESB ecosystems.<br>* Cloud computing.<br>* Business Rules Management Systems.<br>* Big Data &amp; Semantic Web<br>* Data Integration.<br>* Middleware<br><br><br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "gears",
-              "family": "et-line",
-              "active": true,
-              "link": "index.html#features6-1",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "title4": "Technology",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "\"A good architect should be able to code\", we thrive by this motto and position technology to be the upmost business enabler.&nbsp;<br><i>We have proven expertise in:</i><br>* SOA, BPM &amp; ESB ecosystems.<br>* Cloud computing.<br>* Business Rules Management Systems.<br>* Big Data<br>* Process and Data Integration.<br>*&nbsp;",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "search",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "index.html#features6-1",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "title5": "Architecture Audit",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "\"All expensive mistakes are made on day one\"&nbsp;<br><br>We can conduct an independent audit into your current architectural approach, artefact and direction.<br><br>This will benefit architects re-assurance and CIO's peace of mind.<br><br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "title": "Solution Architecture",
+          "text": "Our patented solution architecture approach will increase turn around for projects.<br><br>We have strong experience in delivering solution architecture driven by domain standards and influenced by industry reference architecure.<br><br>Formulating reference architecture, specific for your organisation will provide foundation template for future solutions.<br><br>Our approach is to keep Solution Architecture at conceptual level and leave low level UML designs to Solution Designers.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
-          "_inherit": "features3",
           "_tags": [
             "Theme"
           ],
-          "_name": "features6",
-          "_styles": {
-            "P": {
-              "text-align": "left"
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-14",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f3c649",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x927.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
             }
           },
-          "_anchor": "features6-s",
+          "title": "Technology",
+          "text": "We thrive on innovative technology.<br><br>Our expertise in this capability spans across strategising, architecting and implementing with the following in focus. <br><br>* SOA, BPM &amp; ESB ecosystems.<br>* Cloud computing.<br>* Business Rules Management Systems.<br>* Big Data &amp; Semantic Web<br>* Data Integration.<br>* Middleware<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-15",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": 0,
             "parallax": true,
+            "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": true,
@@ -298,136 +637,114 @@
             "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "2",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
             "showButtons": false
           },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "briefcase",
-              "family": "et-line",
+          "media": {
+            "image": {
               "active": true,
-              "link": "index.html#features6-1",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "title1": "Architecture Capability Portfolio Management",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<br>Our methodology and toolset maximises alignment to business capabilities.<br><br>Can your organisation answer:<br>* How many solutions do you have?<br>* Can you describe each solution in an one-pager?<br>* How much does each solution cost in terms of money and maintenance?<br>* Do you have mapping between business capability and solutions?<br>* What future solutions you may need to come up with?<br><br>Benefits:<br>&nbsp; &nbsp;* Reduce technology footprint.<br>&nbsp; &nbsp;* Reduce Cost Income Ratio.<br>&nbsp; &nbsp;*&nbsp;Instant discovery of duplicate systems.<br>&nbsp; &nbsp;*&nbsp;Fast-track projects with existing solutions via&nbsp;capability-based lookup.<br><br><br><br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media2": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "magnifying-glass",
-              "family": "et-line",
-              "active": true,
-              "link": "index.html#features6-1",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "title2": "Architecture Audit",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<br><span style=\"font-size: 1rem; line-height: 1.5;\">All expensive mistakes are done on day one, which is&nbsp;</span>architecture<span style=\"font-size: 1rem; line-height: 1.5;\">.</span><br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1rem; line-height: 1.5;\">Project success relies on the architecture being proposed, it is&nbsp;</span>fundamental<span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp;to conduct an objective architectural verification process.</span><br><br>With our minimalistic principle, our approach is to audit, verify and validate architectural approach, style, technology selection and reasoning without reading every artefact being produced.<br><br>We can assist;<br>&nbsp; &nbsp;* PMO and project managers for early success,<br>&nbsp; &nbsp;* Architects with re-assurance,<br>&nbsp; &nbsp;* CFO with preventing financial losses due to wrong architectural decisions,<br>&nbsp; &nbsp;* CIO for a peace of mind,<br>whilst maintaining high degree of;<br>&nbsp; &nbsp;* Integrity,<br>&nbsp; &nbsp;* Positivity,<br>&nbsp; &nbsp;*&nbsp;Confidentiality.<br><br><br><br><br><br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "briefcase",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
               "size": 0
             }
           },
-          "title3": "Architecture Portfolio Management",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Our methodolgy and toolset maximises alignment to business capabilities.<br><br><i>Can your organisation answer:</i><br>* How many solutions do you have?<br>* Can you describe each solution in a one-pager?<br>* How much does each solution cost in terms of money and maintenance?<br>* Do you have mapping between business capability and solutions?<br>* What future solutions you may need to come up with?<br><br><i>Organisations will benefit from our unique approach with:</i><br>* Instant discovery of duplicate systems.<br>* Reduction in technology footprint.<br>* Fast-track project success with re-usable solutions via capability-based lookup.<br><br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "gears",
-              "family": "et-line",
+          "title": "Architecture Capability Portfolio",
+          "text": "Our methodology and toolset maximises alignment to business capabilities.<br><br>Can your organisation answer:<br>* How many solutions do you have?<br>* Can you describe each solution in an one-pager?<br>* How much does each solution cost in terms of money and maintenance?<br>* Do you have mapping between business capability and solutions?<br>* What future solutions you may need to come up with?<br><br>Benefits:<br>* Reduce technology footprint.<br>* Reduce Cost Income Ratio.<br>* Instant discovery of duplicate systems.<br>* Fast-track projects with existing solutions via capability-based lookup.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-16",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f3c649",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
               "active": true,
-              "link": "index.html#features6-1",
-              "size": 0,
-              "newWindow": false
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x931.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
             }
           },
-          "title4": "Technology",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "\"A good architect should be able to code\", we thrive by this motto and position technology to be the upmost business enabler.&nbsp;<br><i>We have proven expertise in:</i><br>* SOA, BPM &amp; ESB ecosystems.<br>* Cloud computing.<br>* Business Rules Management Systems.<br>* Big Data<br>* Process and Data Integration.<br>*&nbsp;",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "search",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "index.html#features6-1",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "title5": "Architecture Audit",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "\"All expensive mistakes are made on day one\"&nbsp;<br><br>We can conduct an independent audit into your current architectural approach, artefact and direction.<br><br>This will benefit architects re-assurance and CIO's peace of mind.<br><br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "title": "Architecture Assurance",
+          "text": "All expensive mistakes are done on day one, which is architecture.<br><br>Project success relies on the architecture being proposed, it is fundamental to conduct an objective architectural verification process.<br><br>With our minimalistic principle, our approach is to audit, verify and validate architectural approach, style, technology selection and reasoning without reading every artefact being produced.<br><br>We can assist;<br>* PMO and project managers for early success,<br>* Architects with re-assurance,<br>* CFO with preventing financial losses due to wrong architectural decisions,<br>* CIO for a peace of mind,<br>whilst maintaining high degree of;<br>* Integrity,<br>* Positivity,<br>* Confidentiality.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          },
-          "_anchor": "form1-4",
+          "_anchor": "form1-11",
           "_params": {
             "labelsColor": "#232323",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#f3c649",
+            "bgColor": "#fff",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubTitle": false
+            "showSubTitle": true
           },
-          "title": "Contact Us",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "title": "CONTACT FORM",
+          "subtitle": "",
           "form": {
             "action": "hakanibis@hotmail.com",
             "alerts": {
@@ -455,32 +772,12 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
           "_styles": {
-            "P": {
-              "text-align": "right"
+            ".form-control-label": {
+              "color": "#232323"
             }
-          },
-          "_anchor": "footer1-d",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "special thanks to:<br>mobirise.com<br><br><br><br>"
+          }
         },
         {
           "_inherit": "menu",
@@ -536,7 +833,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-g",
+          "_anchor": "ext_menu-17",
           "_params": {
             "bgColor": "#000000",
             "fontSize": 0.75,
@@ -556,7 +853,7 @@
               "src": "@PROJECT_PATH@/assets/images/drawing2-497x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html#header4-a",
               "title": "",
               "linkInNewWindow": false
             },
@@ -566,8 +863,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-1\"><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-1\">STRATEGY, ENTERPRISE ARCHITECTURE &amp; TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-s\">ARCHITECTURE PORTFOLIO &amp; AUDIT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-1c\" aria-expanded=\"true\">MOTTO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-12\">STRATEGY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-13\">ENTERPRISE ARCHITECTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-1i\">SOLUTION ARCHITECTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-14\">TECHNOLOGY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-15\">ARCHITECTURE CAPABILITY PORTFOLIO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-16\">ARCHITECTURE ASSURANCE</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-11\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         }
       ]
     }
