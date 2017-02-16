@@ -139,6 +139,11 @@
             "Theme"
           ],
           "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
           "_anchor": "features2-1h",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -176,7 +181,7 @@
           },
           "title1": "Strategy",
           "subtitle1": "",
-          "caption1": "Embedding strategic thinking throughtout every phase of business operations.",
+          "caption1": "Embedding strategic thinking throughout every phase of business operations.",
           "button1": "<a data-app-btn=\"true\" href=\"index.html#msg-box5-12\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -250,12 +255,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "features1",
@@ -263,6 +263,11 @@
             "Theme"
           ],
           "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
           "_anchor": "features2-1g",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -315,7 +320,7 @@
           },
           "title2": "Architecture Assurance",
           "subtitle2": "",
-          "caption2": "With all the changes in legal aspects, companies no longer can afford failure due to short-coming architectures.<br>As any concept, we can verify your architecure in a short time frame prior project commencement.",
+          "caption2": "With all the changes in legal aspects, companies no longer can afford failure due to short-coming architectures.<br>As any concept, we can verify your architecture in a short time frame prior project commencement.",
           "button2": "<a data-app-btn=\"true\" href=\"index.html#msg-box5-16\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -372,12 +377,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -402,7 +402,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "special thanks to:<br>mobirise.com<br><br><br><br>"
+          "text": "special thanks to:<br>mobirise.com<br><br><br><br><br><br>"
         },
         {
           "_tags": [
@@ -507,7 +507,7 @@
             }
           },
           "title": "Enterprise Architecture",
-          "text": "Enterprise Architecture is a compass, only useful if well understood.<br><br>Our approach is to establish or deliver a minimalistic Just Enough Architecture with respect to organisational culture, structure and business intent.<br><br>Our experience spans across:<br>&nbsp; &nbsp;* Business Architecture<br>&nbsp; &nbsp;* Information Architecure<br>&nbsp; &nbsp;* Technology Architecture<br>&nbsp; &nbsp;* Integration Architecture<br>&nbsp; &nbsp;* Enterprise Security Architecture<br><br>Our proven methodology will bring Enterprise and Solution Architects to the same page whilst maintaining strong focus on business strategy and direction.<br>",
+          "text": "Enterprise Architecture is a compass, only useful if well understood.<br><br>Our approach is to establish or deliver a minimalistic Just Enough Architecture with respect to organisational culture, structure and business intent.<br><br>Our experience spans across:<br>&nbsp; &nbsp;* Business Architecture<br>&nbsp; &nbsp;* Information Architecture<br>&nbsp; &nbsp;* Technology Architecture<br>&nbsp; &nbsp;* Integration Architecture<br>&nbsp; &nbsp;* Enterprise Security Architecture<br><br>Our proven methodology will bring Enterprise and Solution Architects to the same page whilst maintaining strong focus on business strategy and direction.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -560,7 +560,7 @@
             }
           },
           "title": "Solution Architecture",
-          "text": "Our patented solution architecture approach will increase turn around for projects.<br><br>We have strong experience in delivering solution architecture driven by domain standards and influenced by industry reference architecure.<br><br>Formulating reference architecture, specific for your organisation will provide foundation template for future solutions.<br><br>Our approach is to keep Solution Architecture at conceptual level and leave UML to Solution Designers.",
+          "text": "Our patented solution architecture approach will increase turn around for projects.<br><br>We have strong experience in delivering solution architecture driven by domain standards and influenced by industry reference architecture.<br><br>Formulating reference architecture, specific for your organisation will provide foundation template for future solutions.<br><br>Our approach is to keep Solution Architecture at conceptual level and leave UML to Solution Designers.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -727,6 +727,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-11",
           "_params": {
             "labelsColor": "#232323",
@@ -772,12 +777,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         },
         {
           "_inherit": "menu",
