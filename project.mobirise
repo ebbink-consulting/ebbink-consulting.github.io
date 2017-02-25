@@ -58,6 +58,9 @@
             ".mbr-section-lead": {
               "color": "#ffffff",
               "text-align": "center"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "header4-a",
@@ -130,7 +133,7 @@
             "showTitle": true,
             "showCaption": true
           },
-          "title": "<span style=\"font-weight: normal;\">Our Motto</span>",
+          "title": "<span style=\"font-weight: normal; line-height: 1.1;\">Our Motto</span><br>",
           "caption": "<p><span style=\"line-height: 1.5;\">MAKE ARCHITECTURE FUN AGAIN</span><br></p><p><b>MAKE ARCHITECTURE MINIMAL &amp; CONNECTED</b></p><p>MAKE PEOPLE BELIEVE IN ARCHITECTURE</p>"
         },
         {
@@ -142,6 +145,12 @@
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "text-align": "left"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "text-align": "left"
             }
           },
           "_anchor": "features2-1h",
@@ -266,6 +275,12 @@
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "text-align": "left"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "text-align": "left"
             }
           },
           "_anchor": "features2-1g",
@@ -613,7 +628,7 @@
             }
           },
           "title": "Technology",
-          "text": "We thrive on innovative technology.<br><br>Our expertise in this capability spans across strategising, architecting and implementing with the following in focus. <br><br>&nbsp; &nbsp;* SOA, BPM &amp; ESB ecosystems.<br>&nbsp; &nbsp;* Cloud computing.<br>&nbsp; &nbsp;* Business Rules Management Systems.<br>&nbsp; &nbsp;* Big Data &amp; Semantic Web<br>&nbsp; &nbsp;* Data Integration.<br>&nbsp; &nbsp;* Middleware<br>",
+          "text": "We thrive on innovative technology.<br><br>Our expertise in this capability spans across strategising, architecting and implementing with the following in focus:<br>&nbsp; &nbsp;* SOA, BPM &amp; ESB ecosystems<br>&nbsp; &nbsp;* Cloud computing<br>&nbsp; &nbsp;* Business Rules Management Systems<br>&nbsp; &nbsp;* Big Data &amp; Semantic Web<br>&nbsp; &nbsp;* Data Integration<br>&nbsp; &nbsp;* Middleware<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -719,7 +734,7 @@
             }
           },
           "title": "Architecture Assurance",
-          "text": "All expensive mistakes are done on day one, which is architecture.<br><br>Project success relies on the architecture being proposed, it is fundamental to conduct an objective architectural verification process.<br><br>With our minimalistic principle, our approach is to audit, verify or alternatively validate architectural approach, style, technology selection and reasoning without reading every artefact being produced.&nbsp;<br><br>Our framework will provide insight to make sure the architectural directions is sound.<br><br>Benefits:<br>&nbsp; &nbsp;* PMO and project managers for early success,<br>&nbsp; &nbsp;* Architects with re-assurance,<br>&nbsp; &nbsp;* CFO with preventing financial losses due to wrong architectural decisions,<br>&nbsp; &nbsp;* CIO for a peace of mind,<br><br>whilst maintaining high degree of;<br>&nbsp; &nbsp;* Integrity,<br>&nbsp; &nbsp;* Positivity,<br>&nbsp; &nbsp;* Confidentiality.",
+          "text": "All expensive mistakes are done on day one, which is architecture.<br><br>Project success relies on the architecture being proposed, it is fundamental to conduct an objective architectural verification process.<br><br>With our minimalistic principle, our approach is to audit, verify or alternatively validate architectural approach, style, technology selection and reasoning without reading every artefact being produced.&nbsp;<br><br>Our framework will provide insight to make sure the architectural directions is sound.<br><br>Benefits:<br>&nbsp; &nbsp;* PMO and project managers for early success<br>&nbsp; &nbsp;* Architects with re-assurance<br>&nbsp; &nbsp;* CFO with preventing financial losses<br>&nbsp; &nbsp;* CIO for a peace of mind<br>whilst maintaining high degree of:<br>&nbsp; &nbsp;* Integrity<br>&nbsp; &nbsp;* Positivity<br>&nbsp; &nbsp;* Confidentiality",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -864,7 +879,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-1c\" aria-expanded=\"true\">MOTTO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-12\">STRATEGY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-13\">ENTERPRISE ARCHITECTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-1i\">SOLUTION ARCHITECTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-14\">TECHNOLOGY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-15\">ARCHITECTURE CAPABILITY PORTFOLIO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-16\">ARCHITECTURE ASSURANCE</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-11\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-1c\" aria-expanded=\"false\">MOTTO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-12\">STRATEGY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-13\">ENTERPRISE ARCHITECTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-1i\">SOLUTION ARCHITECTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-14\">TECHNOLOGY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-15\">ARCHITECTURE CAPABILITY PORTFOLIO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-16\">ARCHITECTURE ASSURANCE</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-11\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         }
       ]
     }
