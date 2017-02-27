@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.3",
-    "uniqCompNum": 56,
+    "uniqCompNum": 57,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -734,7 +734,7 @@
             }
           },
           "title": "Architecture Assurance",
-          "text": "All expensive mistakes are done on day one, which is architecture.<br><br>Project success relies on the architecture being proposed, it is fundamental to conduct an objective architectural verification process.<br><br>With our minimalistic principle, our approach is to audit, verify or alternatively validate architectural approach, style, technology selection and reasoning without reading every artefact being produced.&nbsp;<br><br>Our framework will provide insight to make sure the architectural directions is sound.<br><br>Benefits:<br>&nbsp; &nbsp;* PMO and project managers for early success<br>&nbsp; &nbsp;* Architects with re-assurance<br>&nbsp; &nbsp;* CFO with preventing financial losses<br>&nbsp; &nbsp;* CIO for a peace of mind<br>whilst maintaining high degree of:<br>&nbsp; &nbsp;* Integrity<br>&nbsp; &nbsp;* Positivity<br>&nbsp; &nbsp;* Confidentiality",
+          "text": "All expensive mistakes are done on day one, which is architecture.<br><br>Project success relies on the architecture being proposed, it is fundamental to conduct an objective architectural verification process.<br><br>With our minimalistic principle, our approach is to audit, verify or alternatively validate architectural approach, style, technology selection and reasoning without reading every artefact being produced.&nbsp;<br><br>Our framework will provide an insight to make sure the architectural directions is sound.<br><br>Benefits:<br>&nbsp; &nbsp;* PMO and project managers for early success<br>&nbsp; &nbsp;* Architects with re-assurance<br>&nbsp; &nbsp;* CFO with preventing financial losses<br>&nbsp; &nbsp;* CIO for a peace of mind<br>whilst maintaining high degree of:<br>&nbsp; &nbsp;* Integrity<br>&nbsp; &nbsp;* Positivity<br>&nbsp; &nbsp;* Confidentiality<br><br>Organisations can be overwhelmed with various reasons and may occasionally lose sight whilst constantly dealing with details. We will deliver an external perspective assuring your architecure is on the right path.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -742,12 +742,7 @@
             "Theme"
           ],
           "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          },
-          "_anchor": "form1-11",
+          "_anchor": "form1-1k",
           "_params": {
             "labelsColor": "#232323",
             "paddingTop": 3,
@@ -763,8 +758,8 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "CONTACT FORM",
-          "subtitle": "",
+          "title": "DEMAND VALUE!",
+          "subtitle": "Contact us for more information or a demo of our visual tool and step into the world of live architecures.",
           "form": {
             "action": "hakanibis@hotmail.com",
             "alerts": {
@@ -792,7 +787,12 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
         },
         {
           "_inherit": "menu",
@@ -879,7 +879,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-1c\" aria-expanded=\"false\">MOTTO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-12\">STRATEGY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-13\">ENTERPRISE ARCHITECTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-1i\">SOLUTION ARCHITECTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-14\">TECHNOLOGY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-15\">ARCHITECTURE CAPABILITY PORTFOLIO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-16\">ARCHITECTURE ASSURANCE</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-11\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-1c\" aria-expanded=\"false\">MOTTO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-12\">STRATEGY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-13\">ENTERPRISE ARCHITECTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-1i\">SOLUTION ARCHITECTURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-14\">TECHNOLOGY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-15\">ARCHITECTURE CAPABILITY PORTFOLIO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-16\">ARCHITECTURE ASSURANCE</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1k\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         }
       ]
     }
