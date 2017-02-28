@@ -417,7 +417,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "special thanks to:<br>mobirise.com<br><br><br><br><br><br>"
+          "text": "special thanks to:&nbsp;mobirise.com,semantic-ui.com,youtu.be/gPy2DHHnlqQ<br><br><br><br><br><br>"
         },
         {
           "_tags": [
@@ -758,7 +758,7 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "DEMAND VALUE!",
+          "title": "Contact Us",
           "subtitle": "Contact us for more information or a demo of our visual tool and step into the world of live architectures.",
           "form": {
             "action": "hakanibis@hotmail.com",
