@@ -13,7 +13,7 @@
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
         "titleFont": "Open Sans",
-        "subtitleFont": "Lora",
+        "subtitleFont": "Montserrat",
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
