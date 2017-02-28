@@ -184,8 +184,9 @@
               "name": "telescope",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "index.html#msg-box5-12",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title1": "Strategy",
@@ -199,8 +200,10 @@
               "name": "strategy",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "index.html#msg-box5-13",
+              "size": 0,
+              "color": "",
+              "newWindow": false
             }
           },
           "title2": "Enterprise Architecture",
@@ -214,8 +217,9 @@
               "name": "tools-2",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "index.html#msg-box5-1i",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title3": "Solution Architecture",
@@ -229,8 +233,9 @@
               "name": "gears",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "index.html#msg-box5-14",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title4": "Technology",
@@ -314,8 +319,9 @@
               "name": "briefcase",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "index.html#msg-box5-15",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title1": "Architecture Capability Portfolio",
@@ -329,8 +335,9 @@
               "name": "magnifying-glass",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "index.html#msg-box5-16",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title2": "Architecture Assurance",
