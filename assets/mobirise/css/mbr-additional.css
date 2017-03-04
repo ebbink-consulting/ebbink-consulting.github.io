@@ -468,7 +468,13 @@ h6,
   text-align: right;
 }
 #form1-1k .form-control-label {
-  color: #232323;
+  color: #000000;
+}
+#form1-1k .mbr-section-title {
+  color: #000000;
+}
+#form1-1k SMALL {
+  color: #000000;
 }
 #ext_menu-17 .hide-buttons .nav-btn {
   display: none !important;
